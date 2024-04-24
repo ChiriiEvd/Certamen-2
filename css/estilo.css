@@ -140,6 +140,14 @@ h1,h2,h3,h4,h5{
 .mostrar{
     height: 210px;
 }
+
+/* Mapa */
+.mapa{
+    float: left;
+    margin-top: 100px;
+    margin: 100px 0 0 200px;
+}
+
 /*----------------Estilos Banner------------------*/
 
 .banner{
@@ -397,8 +405,6 @@ h1,h2,h3,h4,h5{
 	
 	}
 }
-
-
 
 
 
